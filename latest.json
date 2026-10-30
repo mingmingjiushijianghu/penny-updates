@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "packageName": "app.qinghe.ledger",
+  "versionCode": 3,
+  "versionName": "1.1.0",
+  "minSdk": 24,
+  "apkUrl": "https://github.com/mingmingjiushijianghu/penny-updates/releases/download/v1.1.0/Penny-1.1.0.apk",
+  "sha256": "57d0f6dba6532f3700af5344d8186576a7f256285d0efc73b667b12d877b4245",
+  "size": 475887,
+  "notes": "新增应用内更新。打开应用时自动检查新版本，可查看更新说明、下载进度，并在校验后确认安装。保留原有账本。",
+  "publishedAt": "2026-10-30T00:51:02Z"
+}
